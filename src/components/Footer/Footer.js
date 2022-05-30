@@ -6,6 +6,7 @@ const Footer = () => (
     <a
       href='https://github.com/khaziashwaq/myportfolio'
       className='link footer__link'
+      target='_blank'
     >
       Feel Free to Clone and Customize
     </a>
