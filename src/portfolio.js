@@ -2,7 +2,7 @@
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage:'AK',
+  homepage:'https://khaziashwaq.github.io/myportfolio/',
   title: "Ashwaq Khazi",
 }
 
@@ -12,7 +12,7 @@ const about = {
   role: 'Front End Developer, Data Science Enthusiast and a Student',
   description:
     'I am a 3rd year EnTC student at',
-  resume: 'file:///C:/college%20stuff/32331_Ashwaq_Khazi_Resume.pdf',
+  resume: 'https://drive.google.com/file/d/12pi3OfMp_Vlo-qQEbrqv9248EgFWuhqF/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
@@ -35,8 +35,8 @@ const projects = [
     description:
       'Created my portfolio that you are going through right now from scratch using ReactJS and TailwindCSS, MaterialUI, Bootstrap as UI Library. A responsive website which is solely for the purpose of showcasing my portfolio.',
     stack: ['ReactJS', 'NodeJS','TailwindCSS','BootStrap','MaterialUI'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/khaziashwaq/myportfolio',
+    livePreview: 'https://khaziashwaq.github.io/myportfolio/',
   },
   
 ]
@@ -69,14 +69,7 @@ const skills = [
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
   "https://cdn-icons-png.flaticon.com/512/5968/5968559.png"
           
-          
-          
-
-          
-
-
-          
-          
+    
 ];
 
 const certification = [

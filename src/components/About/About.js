@@ -23,7 +23,7 @@ const About = () => {
 
       <div className='about__contact center mx-auto'>
         {resume && (
-          <a href='https://drive.google.com/file/d/15mdYPsCerr-DsnBS3iCRYtmcuP6HiSMM/view?usp=sharing' target='_blank' rel='noreferrer'>
+          <a href={resume} target='_blank' rel='noreferrer'>
             <span type='button' className='btn btn--outline mx-auto'>
             resume
             </span>
