@@ -1,0 +1,12 @@
+.card:hover{
+    box-shadow: var(--shadow);
+    transform: translateY(-7px);
+    
+}
+.card{
+    transition: transform 0.2s linear;
+    box-shadow: var(--shadow);
+}
+.btn{
+    text-align: center;
+}

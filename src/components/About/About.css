@@ -1,0 +1,53 @@
+.about {
+  flex-direction: column;
+  margin-top: 3em;
+}
+.rounded{
+  height: 20rem;
+  margin: auto;
+}
+.flexx{
+  display: flex;
+}
+
+.about__name {
+  font-size: 5rem;
+  text-align: center;
+  color: var(--clr-primary);
+  
+}
+.about__role {
+  margin-top: 1.2em;
+  text-align: center;
+}
+
+.about__desc {
+  text-align: center;
+  font-size: 2rem;
+  max-width: 600px;
+}
+
+.about__desc,
+.about__contact {
+  margin-top: 2.4em;
+}
+
+.about .link--icon {
+  margin-right: 0.8em;
+}
+
+
+@media (max-width: 600px) {
+  .app .about {
+    align-items: flex-start;
+    margin-top: 2em;
+    text-align: center;
+  }
+  .about__name{
+    font-size: 3rem;
+  }
+  .about_name{
+    margin-bottom: 1rem;
+  }
+
+}
