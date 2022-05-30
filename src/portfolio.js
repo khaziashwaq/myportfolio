@@ -12,7 +12,7 @@ const about = {
   role: 'Front End Developer, Data Science Enthusiast and a Student',
   description:
     'I am a 3rd year EnTC student at',
-  resume: 'https://drive.google.com/file/d/12pi3OfMp_Vlo-qQEbrqv9248EgFWuhqF/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1PiorDYKtzVHxT08lLh2Benosaj7OtDBt/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
