@@ -38,6 +38,14 @@ const projects = [
     sourceCode: 'https://github.com/khaziashwaq/myportfolio',
     livePreview: 'https://khaziashwaq.github.io/myportfolio/',
   },
+  {
+    name: 'Anime Recommender System',
+    description:
+      'Created my portfolio that you are going through right now from scratch using ReactJS and TailwindCSS, MaterialUI, Bootstrap as UI Library. A responsive website which is solely for the purpose of showcasing my portfolio.',
+    stack: ['Flask','scikit-learn'],
+    sourceCode: 'https://github.com/khaziashwaq/myportfolio',
+    livePreview: 'https://khaziashwaq.github.io/myportfolio/',
+  },
   
 ]
 
@@ -65,9 +73,9 @@ const skills = [
   "https://coreui.io/docs/2.1/assets/brand/logo.svg",
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg",
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
-  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-  "https://cdn-icons-png.flaticon.com/512/5968/5968559.png"
+  "https://cdn-icons-png.flaticon.com/512/5968/5968559.png",
+  "https://streamlit.io/images/brand/streamlit-mark-color.svg"
           
     
 ];
