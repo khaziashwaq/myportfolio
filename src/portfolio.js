@@ -44,7 +44,7 @@ const projects = [
       'Worked on Content-Based Recommender System. This Recommendation System will return the most similar items based on the input anime we give to it.',
     stack: ['Streamlit','scikit-learn'],
     sourceCode: 'https://github.com/khaziashwaq/Anime-Recommender-System',
-    livePreview: 'https://khaziashwaq.github.io/myportfolio/',
+    livePreview: 'https://share.streamlit.io/khaziashwaq/anime-recom/app.py',
   },
   
 ]
