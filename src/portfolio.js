@@ -41,9 +41,9 @@ const projects = [
   {
     name: 'Anime Recommender System',
     description:
-      'Created my portfolio that you are going through right now from scratch using ReactJS and TailwindCSS, MaterialUI, Bootstrap as UI Library. A responsive website which is solely for the purpose of showcasing my portfolio.',
-    stack: ['Flask','scikit-learn'],
-    sourceCode: 'https://github.com/khaziashwaq/myportfolio',
+      'Worked on Content-Based Recommender System. This Recommendation System will return the most similar items based on the input anime we give to it.',
+    stack: ['Streamlit','scikit-learn'],
+    sourceCode: 'https://github.com/khaziashwaq/myportfoliohttps://github.com/khaziashwaq/Anime-Recommender-System',
     livePreview: 'https://khaziashwaq.github.io/myportfolio/',
   },
   
